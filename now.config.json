@@ -1,0 +1,6 @@
+{
+    "scope": "global",
+    "scopeId": "e929ff1c14e4403db7d2c4ddd4d519ef",
+    "name": "RESTCart",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
