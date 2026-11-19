@@ -2,5 +2,12 @@
     "scope": "global",
     "scopeId": "e929ff1c14e4403db7d2c4ddd4d519ef",
     "name": "RESTCart",
-    "tsconfigPath": "./src/server/tsconfig.json"
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "dependencies": {
+        "global": {
+            "sys_script_include": [
+                "9ed16e246730220023c82e08f585efaf"
+            ]
+        }
+    }
 }
